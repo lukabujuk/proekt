@@ -1,7 +1,0 @@
-# Fitness Tracker - requirements.txt
-# Проектът използва само стандартни Python библиотеки.
-# Не са необходими допълнителни инсталации.
-
-# Стандартни библиотеки (вградени в Python 3.10+):
-#   datetime  — работа с дати
-#   __future__ — type hints (dict | None)
